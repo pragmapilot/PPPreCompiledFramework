@@ -21,6 +21,13 @@ A Pre-Compiled Swift Framework with CocoaPods
 
   s.ios.deployment_target = '8.0'
 
+  #
+  # This lines were added, as per doc, to build the precompiled framework.
+  #
+  s.ios.preserve_paths = 'PPPreCompiledFramework/PPPreCompiledFramework.framework'
+  s.public_header_files = 'PPPreCompiledFramework/PPPreCompiledFramework.framework/Headers/**/*.h'
+  s.vendored_frameworks = 'PPPreCompiledFramework/PPPreCompiledFramework.framework'
+
   s.source_files = 'PPPreCompiledFramework/Classes/**/*'
   
 end
