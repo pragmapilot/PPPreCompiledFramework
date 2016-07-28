@@ -9,9 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = 'PPPreCompiledFramework'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PPPreCompiledFramework.'
+  s.summary          = 'Testing CocoaPods Frameworks.'
   s.description      = <<-DESC
-A Swift Pre-Compiled Framework with CocoaPods
+A Pre-Compiled Swift Framework with CocoaPods
                        DESC
 
   s.homepage         = 'https://github.com/pragmapilot/PPPreCompiledFramework'
