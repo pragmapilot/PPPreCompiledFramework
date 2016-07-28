@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  PPPreCompiledFramework
 //
-//  Created by Rodrigo Gonçalves on 07/28/2016.
-//  Copyright (c) 2016 Rodrigo Gonçalves. All rights reserved.
+//  Created by PragmaPilot on 07/28/2016.
+//  Copyright (c) 2016 PragmaPilot. All rights reserved.
 //
 
 import UIKit

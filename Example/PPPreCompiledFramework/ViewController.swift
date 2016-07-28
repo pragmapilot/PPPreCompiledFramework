@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PPPreCompiledFramework
 //
-//  Created by Rodrigo Gonçalves on 07/28/2016.
-//  Copyright (c) 2016 Rodrigo Gonçalves. All rights reserved.
+//  Created by Pragma Pilot on 07/28/2016.
+//  Copyright (c) 2016 Pragma Pilot. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (3.2.0)
+  - PPPreCompiledFramework (0.1.0)
+  - Quick (0.9.2)
+
+DEPENDENCIES:
+  - Nimble (~> 3.0)
+  - PPPreCompiledFramework (from `../`)
+  - Quick (~> 0.8)
+
+EXTERNAL SOURCES:
+  PPPreCompiledFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  PPPreCompiledFramework: e73f6f3a0a99a8779b185ba14c73cd24ead28ed5
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+
+PODFILE CHECKSUM: 508725d486e0f14bbff7b6907bcebb124fb5f5e6
+
+COCOAPODS: 1.1.0.beta.1

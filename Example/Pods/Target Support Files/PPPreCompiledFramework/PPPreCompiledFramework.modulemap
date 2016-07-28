@@ -1,0 +1,6 @@
+framework module PPPreCompiledFramework {
+  umbrella header "PPPreCompiledFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

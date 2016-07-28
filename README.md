@@ -1,6 +1,6 @@
 # PPPreCompiledFramework
 
-[![CI Status](http://img.shields.io/travis/Rodrigo Gonçalves/PPPreCompiledFramework.svg?style=flat)](https://travis-ci.org/Rodrigo Gonçalves/PPPreCompiledFramework)
+[![CI Status](http://img.shields.io/travis/PragmaPilot/PPPreCompiledFramework.svg?style=flat)](https://travis-ci.org/PragmaPilot/PPPreCompiledFramework)
 [![Version](https://img.shields.io/cocoapods/v/PPPreCompiledFramework.svg?style=flat)](http://cocoapods.org/pods/PPPreCompiledFramework)
 [![License](https://img.shields.io/cocoapods/l/PPPreCompiledFramework.svg?style=flat)](http://cocoapods.org/pods/PPPreCompiledFramework)
 [![Platform](https://img.shields.io/cocoapods/p/PPPreCompiledFramework.svg?style=flat)](http://cocoapods.org/pods/PPPreCompiledFramework)
@@ -22,7 +22,7 @@ pod "PPPreCompiledFramework"
 
 ## Author
 
-Rodrigo Gonçalves, rodrigo.goncalves@talkdesk.com
+PragmaPilot, pragmapilot@somewhere.com
 
 ## License
 
